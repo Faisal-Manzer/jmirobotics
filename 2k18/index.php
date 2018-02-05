@@ -6,6 +6,7 @@ echo basic_fav();
 echo m_css();
 echo c_head();
 echo basic_nav();
+//Hi
 ?>
 <main>
 <div class="container">
